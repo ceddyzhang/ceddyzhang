@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects involving Excel VBA, SQL, Python
-- 📫 How to reach me ...
+- 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/cedric-zhang-9796b392/
 
 <!---
 ceddyzhang/ceddyzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
